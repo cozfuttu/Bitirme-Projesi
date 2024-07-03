@@ -1,13 +1,13 @@
 import "./globals.css";
 import { fontClasses } from "./fonts";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Atatürk Q&A Application",
+  title: "Datatürk Q&A Uygulaması",
   description:
-    "A question and answer application about Mustafa Kemal Atatürk. This application allows users to ask questions about Atatürk and get detailed answers.",
+    "Mustafa Kemal Atatürk hakkında bir soru-cevap uygulamasıdır. Bu uygulama kullanıcıların Atatürk hakkında sorular sormasına ve detaylı cevaplar almasına olanak sağlar.",
 };
 
 export default function RootLayout({
@@ -21,6 +21,10 @@ export default function RootLayout({
       <body
         className={`${classNames} relative grid min-h-screen grid-rows-[auto_1fr_auto] selection:bg-[#98181f] selection:text-white`}
       >
+        <script
+          src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs"
+          type="module"
+        ></script>
         <Header />
         {children}
         <Footer />

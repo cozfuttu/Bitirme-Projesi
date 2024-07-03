@@ -4,8 +4,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 
 const ROUTES = Object.freeze({
-  Home: "/",
-  Chat: "/chat",
+  "Ana sayfa": "/",
+  Sohbet: "/sohbet",
 });
 
 export default function Header() {

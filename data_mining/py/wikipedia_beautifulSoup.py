@@ -4,6 +4,8 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
+print('calismaya basladim!')
+
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 url = "https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atatürk"
