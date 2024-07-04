@@ -3,6 +3,7 @@ import { fontClasses } from "./fonts";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import type { Metadata } from "next";
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Datatürk Q&A Uygulaması",
@@ -21,10 +22,10 @@ export default function RootLayout({
       <body
         className={`${classNames} relative grid min-h-screen grid-rows-[auto_1fr_auto] selection:bg-[#98181f] selection:text-white`}
       >
-        <script
+        <Script
           src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs"
           type="module"
-        ></script>
+        ></Script>
         <Header />
         {children}
         <Footer />

@@ -15,6 +15,7 @@ type Question = {
 const Home: React.FC = () => {
   return (
     <div className="m-8 mx-auto flex max-w-[1024px] flex-col p-8">
+      {/* @ts-ignore */}
       <dotlottie-player
         src="https://lottie.host/05c179b8-e877-433a-a8c4-b0c07ef74339/vKFBnZsQsC.json"
         background="transparent"
@@ -22,7 +23,7 @@ const Home: React.FC = () => {
         style={{ width: "min(70vw, 400px)", height: "auto", margin: "0 auto" }}
         loop
         autoplay
-      ></dotlottie-player>
+      />
 
       <h1 className="text-2xl">Otomatik Soru Cevap Sistemleri</h1>
       <p>
@@ -33,7 +34,7 @@ const Home: React.FC = () => {
         önceden belirlenmiş bilgilerden çekmektedir.
       </p>
 
-      <p className="mt-4">OSCS'lerin temel bileşenleri şunlardır:</p>
+      <p className="mt-4">OSCS&apos;lerin temel bileşenleri şunlardır:</p>
       <ol className="ml-4 list-decimal">
         <li>
           <b>Soru İşleme:</b> Kullanıcının sorduğu soruyu analiz edip, anahtar
@@ -65,18 +66,18 @@ const Home: React.FC = () => {
           içerisinden sorulan soruların cevaplanmasını içerir. Bu türde iki ana
           kategori vardır: açık alan ve kapalı alan soruları. Açık alan soruları
           belirli bir konuya odaklanırken, kapalı alan soruları daha geniş bir
-          bilgi gerektirir. Örneğin, "Türkiye'nin en çok kazanan oyuncusu
-          kimdir?" sorusu sinema veya spor gibi farklı alanlarda farklı cevaplar
-          gerektirebilir.
+          bilgi gerektirir. Örneğin, &quot;Türkiye&apos;nin en çok kazanan
+          oyuncusu kimdir?&quot; sorusu sinema veya spor gibi farklı alanlarda
+          farklı cevaplar gerektirebilir.
         </li>
         <li>
           <b>Cevap Türüne Göre Soru Cevaplama:</b> Bazı soruların cevapları net
-          ve kısadır. Örneğin, "Türkiye Cumhuriyeti'nin ilk Cumhurbaşkanı
-          kimdir?" sorusunun tek bir doğru cevabı vardır. Ancak, "Türkiye
-          Cumhuriyeti'nin ilk Cumhurbaşkanı nasıl bir kişidir?" gibi soruların
-          cevapları kişiden kişiye değişkenlik gösterir. Bu nedenle, sorular
-          belirli cevaplar ve belirsiz cevaplar olmak üzere iki gruba
-          ayrılabilir.
+          ve kısadır. Örneğin, &quot;Türkiye Cumhuriyeti&apos;nin ilk
+          Cumhurbaşkanı kimdir?&quot; sorusunun tek bir doğru cevabı vardır.
+          Ancak, &quot;Türkiye Cumhuriyeti&apos;nin ilk Cumhurbaşkanı nasıl bir
+          kişidir?&quot; gibi soruların cevapları kişiden kişiye değişkenlik
+          gösterir. Bu nedenle, sorular belirli cevaplar ve belirsiz cevaplar
+          olmak üzere iki gruba ayrılabilir.
         </li>
         <li>
           <b>Soru Cevaplama Yöntemlerine Göre:</b> Soru cevaplama teknikleri,

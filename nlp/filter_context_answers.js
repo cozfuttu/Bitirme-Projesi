@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const fileName = "qa";
+const fileName = "transformed_qa";
 const data = JSON.parse(fs.readFileSync(`${fileName}.json`));
 
 function filterQuestions(dataArray) {

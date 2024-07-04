@@ -1,0 +1,1941 @@
+
+  {
+    "context": "19. yüzyıl başlarında Avusturya ve Rusya, Sırbistan'da halkı Osmanlı egemenliğine karşı kışkırtma siyaseti uygulamaya başlamışlardı. Ayrıca buradaki yeniçeriler Müslüman ve Hıristiyan halka karşı çok kötü davranarak halkı iyice bezdiriyorlardı. Bu ortamda Sırplar sıradan bir çoban olan Kara Yorgi'nin önderliğinde ayaklandılar. Ruslardan da aldığı destekle Kara Yorgi 13 Aralık 1806'da Belgrad'a girdi. 1806-1812 Osmanlı-Rus Savaşı sırasında Belgrad Kara Yorgi'nin önderliğindeki isyancıların elinde kaldı. Osmanlı İmparatorluğu ve Rusya arasında imzalanan Bükreş Antlaşması ile Sırplara bazı imtiyazlar verildi. Osmanlılar Ruslarla yapılan barıştan sonra Sırbistan'daki isyancıları yenerek Belgrad'ı tekrar ellerine geçirdiler. Kara Yorgi 21 Eylül 1813'te diğer isyancılarla birlikte canını kurtarmak için Avusturya'ya kaçtı. Böylece ilk Sırp isyanı son bulmuş oldu.",
+    "qas": [
+      {
+        "id": "001",
+        "question": "19. Yüzyıl başlarında hangi devletler Sırbistan'da halkı Osmanlı egemenliğine karşı kışkırtmıştır?",
+        "answers": [
+          {
+            "text": "Avusturya ve Rusya",
+            "answer_start": 22
+          }
+        ]
+      },
+      {
+        "id": "002",
+        "question": "Sırplar kimin önderliğinde ayaklandılar?",
+        "answers": [
+          {
+            "text": "Kara Yorgi",
+            "answer_start": 287
+          }
+        ]
+      },
+      {
+        "id": "003",
+        "question": "Kara Yorgi hangi devletten destek almıştır?",
+        "answers": [
+          {
+            "text": "Ruslardan",
+            "answer_start": 329
+          }
+        ]
+      },
+      {
+        "id": "004",
+        "question": "Kara Yorgi ne zaman Belgrad'a girdi?",
+        "answers": [
+          {
+            "text": "13 Aralık 1806'da",
+            "answer_start": 369
+          }
+        ]
+      },
+      {
+        "id": "005",
+        "question": "Osmanlı-Rus Savaşı ne zaman oldu?",
+        "answers": [
+          {
+            "text": "1806-1812",
+            "answer_start": 404
+          }
+        ]
+      },
+      {
+        "id": "006",
+        "question": "Osmanlı İmparatorluğu ve Rusya arasında hangi antlaşma imzalandı?",
+        "answers": [
+          {
+            "text": "Bükreş Antlaşması",
+            "answer_start": 558
+          }
+        ]
+      },
+      {
+        "id": "007",
+        "question": "Sırbistan'da kimler Müslüman ve Hıristiyan halka karşı çok kötü davranıyorlardı?",
+        "answers": [
+          {
+            "text": "yeniçeriler",
+            "answer_start": 149
+          }
+        ]
+      },
+      {
+        "id": "008",
+        "question": "1806-1812 Osmanlı-Rus Savaşı sırasında neresi isyancıların elinde kaldı?",
+        "answers": [
+          {
+            "text": "Belgrad",
+            "answer_start": 443
+          }
+        ]
+      },
+      {
+        "id": "009",
+        "question": "Bükreş Antlaşması ile kimlere imtiyaz verildi?",
+        "answers": [
+          {
+            "text": "Sırplara",
+            "answer_start": 580
+          }
+        ]
+      },
+      {
+        "id": "010",
+        "question": "Kara Yorgi ve isyancılar canlarını kurtarmak için Avusturya'ya ne zaman kaçtılar?",
+        "answers": [
+          {
+            "text": "21 Eylül 1813'te",
+            "answer_start": 741
+          }
+        ]
+      },
+      {
+        "id": "011",
+        "question": "Kara Yorgi ve isyancılar canlarını kurtarmak için nereye kaçtılar?",
+        "answers": [
+          {
+            "text": "Avusturya'ya",
+            "answer_start": 808
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Bağımsızlıklarını kazanmak isteyen Sırplar 1814 yılındaki Viyana Kongresi'ne bir heyet gönderdiler. Ancak bir sonuç alamayınca 1815 yılında Miloş Obrenoviç'in liderliği altında ikinci bir ayaklanma başlattılar ve hareketleri Ruslar tarafından desteklendi. Bu ayaklanma da başarısız oldu ama 1817 yılında Rusya ile yeni bir savaş istemeyen ve bölgeye yönelik muhtemel bir Rus müdahalesine engel olmak isteyen Osmanlı Devleti Sırplara bazı özerklik hakları vermeye razı oldu. Osmanlı valisi Maraşlı Ali Paşa Miloş Obrenoviç'le anlaşmaya vararak Sırbistan'ın içişlerinde bağımsız olmasını sağladı. Sırbistan'ın yönetimini ele geçiren Miloş Obrenoviç o sırada Sırbistan'a geri dönen ilk isyanın lideri Kara Yorgi'yi kendisine rakip olmasını önlemek için öldürttü. 1828-1829 Osmanlı-Rus Savaşını kaybeden Osmanlılar Ruslarla imzaladıkları Edirne Antlaşmasıyla Sırbistan'ın yarı bağımsız bir hale gelmesini kabullendiler. 1830 ve 1833 yıllarında Osmanlı padişahı II. Mahmut'un imzaladığı Hatt-ı Şeriflerle Miloş Obrenoviç'in elindeki topraklar arttırıldı ve kendisi Osmanlılar tarafından resmen Sırp prensi olarak tanındı.",
+    "qas": [
+      {
+        "id": "012",
+        "question": "Sırplar 1814 yılında hangi kongreye bir heyet gönderdiler?",
+        "answers": [
+          {
+            "text": "Viyana Kongresi'ne",
+            "answer_start": 58
+          }
+        ]
+      },
+      {
+        "id": "013",
+        "question": "Viyana Kongresi ne zaman toplandı?",
+        "answers": [
+          {
+            "text": "1814 yılında",
+            "answer_start": 43
+          }
+        ]
+      },
+      {
+        "id": "014",
+        "question": "Sırplar ne zaman ikinci bir ayaklanma başlattılar?",
+        "answers": [
+          {
+            "text": "1815 yılında",
+            "answer_start": 127
+          }
+        ]
+      },
+      {
+        "id": "015",
+        "question": "Sırplar kimin önderliği altında ikinci bir ayaklanma başlattılar?",
+        "answers": [
+          {
+            "text": "Miloş Obrenoviç",
+            "answer_start": 140
+          }
+        ]
+      },
+      {
+        "id": "016",
+        "question": "Sırplar'ın ikinci ayaklanması hangi devlet tarafından desteklendi?",
+        "answers": [
+          {
+            "text": "Ruslar tarafından",
+            "answer_start": 225
+          }
+        ]
+      },
+      {
+        "id": "017",
+        "question": "Osmanli Devleti kimlere bazı özerklik hakkı vermeye razı oldu?",
+        "answers": [
+          {
+            "text": "Sırplara",
+            "answer_start": 424
+          }
+        ]
+      },
+      {
+        "id": "018",
+        "question": "Osmanlı valisi Maraşlı Ali Paşa kim ile anlaşmaya vardı?",
+        "answers": [
+          {
+            "text": "Miloş Obrenoviç'le",
+            "answer_start": 506
+          }
+        ]
+      },
+      {
+        "id": "019",
+        "question": "Miloş obrenoviç kendisine rakip olmaması için kimi öldürttü?",
+        "answers": [
+          {
+            "text": "Kara Yorgi'yi",
+            "answer_start": 698
+          }
+        ]
+      },
+      {
+        "id": "020",
+        "question": "Osmanlılar Edirne Antlaşmasını kimlerle imzaladı?",
+        "answers": [
+          {
+            "text": "Ruslarla",
+            "answer_start": 811
+          }
+        ]
+      },
+      {
+        "id": "021",
+        "question": "Osmanlılar hangi antlaşma ile Sırbistan'ın yarı bağımsız bie hale gelmesini kabullendiler?",
+        "answers": [
+          {
+            "text": "Edirne",
+            "answer_start": 834
+          }
+        ]
+      },
+      {
+        "id": "022",
+        "question": "Osmanlılar tarafından resmen Sırp prensi olarak tanınan kişi kimdir?",
+        "answers": [
+          {
+            "text": "Miloş Obrenoviç",
+            "answer_start": 1000
+          }
+        ]
+      },
+      {
+        "id": "023",
+        "question": "Hangi padişahın imzaladığı Hatt-ı Şeriflerle Miloş Obrenoviç'in elindeki topraklar arttırıldı?",
+        "answers": [
+          {
+            "text": "II. Mahmut",
+            "answer_start": 957
+          }
+        ]
+      },
+      {
+        "id": "024",
+        "question": "Osmanlıların kaybettiği Osmanlı-Rus Savaşı hangi tarihlerde olmuştur?",
+        "answers": [
+          {
+            "text": "1828-1829",
+            "answer_start": 760
+          }
+        ]
+      },
+      {
+        "id": "025",
+        "question": "İlk isyanın lideri kimdir? ",
+        "answers": [
+          {
+            "text": "Kara Yorgi",
+            "answer_start": 698
+          }
+        ]
+      },
+      {
+        "id": "026",
+        "question": "Osmanlı Devleti ne zaman Sırplara özerklik hakları vermeye razı oldu?",
+        "answers": [
+          {
+            "text": "1817 yılında",
+            "answer_start": 291
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "1806-1812 Osmanlı-Rus Savaşı Osmanlı Devleti ile Rusya arasında bir çok cephelerde savaşılmış bir savaştır. Napolyon Bonapart'ın önderliği altındaki Fransa'nın Avrupa'da başlattığı savaşların arka planında yer aldı. Osmanlı padişahı III. Selim'in saltanatı döneminde 1792-1805 yılları arasında Osmanlı Devleti ve Rusya barış içinde yaşamışlardı. Hatta Osmanlı Devleti Mısır'ı işgal eden Fransa'ya karşı İngiltere ve Rusya'yla işbirliği yaptı. 24 Eylül 1805 tarihinde Osmanlılar Ruslarla yeni bir dostluk antlaşması imzaladılar. Ancak bu antlaşmanın imzasından kısa bir süre sonra Osmanlı Devleti ve Rusya arasında yeni bir anlaşmazlık çıktı. Rusya Osmanlıların Rus yanlısı Eflak ve Boğdan beylerini görevden almasından hoşnut değildi. 40.000 civarında Rus askeri Eflak ve Boğdan'a girdi. III. Selim 22 Aralık 1805 tarihinde boğazları kapattı ve Rusya'ya savaş ilan etti. Rus donanması Osmanlı donanmasını 11 Mayıs 1807 tarihinde Çanakkale boğazı civarında 19-29 Haziran 1807 tarihleri arasında da Limni adası yakınında civarında yendi.",
+    "qas": [
+      {
+        "id": "028",
+        "question": "Fransa'nın Avrupa'da başlattığı savaşların önderliğini yapan kişi kimdir?",
+        "answers": [
+          {
+            "text": "Napolyon Bonapart",
+            "answer_start": 108
+          }
+        ]
+      },
+      {
+        "id": "029",
+        "question": "Hangi yıllar arasında Osmanlı Devleti Rusya ile barış içinde yaşamışlardır?",
+        "answers": [
+          {
+            "text": "1792-1805 yılları arasında",
+            "answer_start": 267
+          }
+        ]
+      },
+      {
+        "id": "030",
+        "question": "24 Eylül 1805 tarihinde Osmanlılar Ruslarla ne imzaladılar?",
+        "answers": [
+          {
+            "text": "dostluk antlaşması",
+            "answer_start": 496
+          }
+        ]
+      },
+      {
+        "id": "031",
+        "question": "Osmanlılar Ruslarla dostluk antlaşmasını ne zaman imzaladılar?",
+        "answers": [
+          {
+            "text": "24 Eylül 1805",
+            "answer_start": 443
+          }
+        ]
+      },
+      {
+        "id": "032",
+        "question": "Ne kadar Rus askeri Eflak ve Boğdan'a girdi?",
+        "answers": [
+          {
+            "text": "40.000 civarı",
+            "answer_start": 735
+          }
+        ]
+      },
+      {
+        "id": "033",
+        "question": "22 Aralık 1805 tarihinde boğazları kapatan padişah kimdir?",
+        "answers": [
+          {
+            "text": "III. Selim",
+            "answer_start": 788
+          }
+        ]
+      },
+      {
+        "id": "034",
+        "question": "III. Selim boğazları hangi tarihte kapattı?",
+        "answers": [
+          {
+            "text": "22 Aralık 1805 tarihinde",
+            "answer_start": 799
+          }
+        ]
+      },
+      {
+        "id": "035",
+        "question": "Rus donanması Osmanlı donanmasını hangi tarihte Çanakkale boğazı civarında yendi?",
+        "answers": [
+          {
+            "text": "11 Mayıs 1807 tarihinde",
+            "answer_start": 905
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Bu arada 29 Mayıs 1807 tarihinde Kabakçı Mustafa isyanı sonucu III. Selim Osmanlı tahtından indirilmiş ve yerine IV. Mustafa tahta geçmişti. IV. Mustafa'nın saltanatı boyunca Osmanlı sarayında büyük bir kargaşa yaşandı. Yeniçeriler saraya hakim oldular. 28 Temmuz 1808 yılında taht tekrar el değiştirdi. IV. Mustafa'nın yerine II. Mahmut geçti. Osmanlılar İngiltere ile 1809'da bir antlaşma yaparak Ruslarla savaşa devam kararı aldılar. Rusların Fransa ile olan sorunları, Osmanlı Devleti ordularının yıllarca süren savaştan yorgun düşmesi yüzünden iki devlet de barış imzalamaya mecbur kaldılar.",
+    "qas": [
+      {
+        "id": "037",
+        "question": "III.Selim tahttan indirildikten sonra yerine kim geçmiştir?",
+        "answers": [
+          {
+            "text": "IV. Mustafa",
+            "answer_start": 113
+          }
+        ]
+      },
+      {
+        "id": "038",
+        "question": "III. Selim Osmanlı tahtından ne zaman indirilmiştir?",
+        "answers": [
+          {
+            "text": "29 Mayıs 1807 tarihinde",
+            "answer_start": 9
+          }
+        ]
+      },
+      {
+        "id": "039",
+        "question": "Hangi padişahın saltanatı boyunca sarayda büyük bir kargaşa yaşandı?",
+        "answers": [
+          {
+            "text": "IV. Mustafa'nın",
+            "answer_start": 141
+          }
+        ]
+      },
+      {
+        "id": "040",
+        "question": "Taht tekrar ne zaman el değiştirdi?",
+        "answers": [
+          {
+            "text": "28 Temmuz 1808 yılında",
+            "answer_start": 254
+          }
+        ]
+      },
+      {
+        "id": "041",
+        "question": "IV. Mustafa'nın yerine tahta kim geçmiştir?",
+        "answers": [
+          {
+            "text": "II. Mahmut",
+            "answer_start": 327
+          }
+        ]
+      },
+      {
+        "id": "042",
+        "question": "Osmanlılar İngiltere ile yaptıkları antlaşmada kimlerle savaşa devam kararı aldılar?",
+        "answers": [
+          {
+            "text": "Ruslarla",
+            "answer_start": 399
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "28 Eylül 1812 tarihinde imzalanan Bükreş Antlaşması ile Rusya, Eflak ve Boğdan'dan çekilecek, Besarabya bölgesi ise Ruslara bırakılacaktı. Osmanlılar Bosna ve Eflak'dan 2 yıl vergi almayacak, Sırplar kendi içlerinde serbest kalacaktı. Tuna nehrinde hem Osmanlı hem de Rus gemileri serbestçe dolaşabilecekti. Prut ve Tuna nehirlerinin sol sahilleri iki ülke arasında sınır kabul edilecekti.",
+    "qas": [
+      {
+        "id": "043",
+        "question": "Bükreş Antlaşması ne zaman imzalandı?",
+        "answers": [
+          {
+            "text": "28 Eylül 1812 tarihinde",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "044",
+        "question": "Bükreş Antlaşmasına göre Rusya nerelerden çekilecek?",
+        "answers": [
+          {
+            "text": "Eflak ve Boğdan'dan",
+            "answer_start": 63
+          }
+        ]
+      },
+      {
+        "id": "045",
+        "question": "Bükreş Antlaşmasına göre Rusya'ya neresi bırakılacaktı?",
+        "answers": [
+          {
+            "text": "Besarabya bölgesi",
+            "answer_start": 94
+          }
+        ]
+      },
+      {
+        "id": "046",
+        "question": "Osmanlılar nerelerden 2 yıl vergi almayacak?",
+        "answers": [
+          {
+            "text": "Eflak ve Boğdan'dan",
+            "answer_start": 150
+          }
+        ]
+      },
+      {
+        "id": "047",
+        "question": "Hangi nehirde hem Osmalı hem de Rus gemileri serbestçe dolaşabilecekti?",
+        "answers": [
+          {
+            "text": "Tuna nehrinde",
+            "answer_start": 235
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Tilsit Antlaşması, 9 Temmuz 1807 yılında Fransa ile Rusya arasında imzalanan antlaşmadır. Bu antlaşmaya göre Rusya, Avrupa'da Fransa'nın yanında yer alacak (İngiltere'ye karşı kıta ablukası), buna karşılık Fransa da Rusya ile Osmanlı Devleti arasında arabuluculuk yapacaktı. Eğer Osmanlı Devleti bunu kabul etmezse, Fransa Rusya'nın yanında Osmanlı Devleti'ne karşı savaş açacak ve onu aralarında paylaşacaklardı. Sadece İstanbul ve Rumeli'ye dokunulmayacaktı.",
+    "qas": [
+      {
+        "id": "049",
+        "question": "Tilsit Antlaşması ne zaman imzalanmıştır?",
+        "answers": [
+          {
+            "text": "9 Temmuz 1807 yılında",
+            "answer_start": 19
+          }
+        ]
+      },
+      {
+        "id": "050",
+        "question": "Tilsit Antlaşması hangi devletler arasında imzalanmıştır?",
+        "answers": [
+          {
+            "text": "Fransa ile Rusya",
+            "answer_start": 41
+          }
+        ]
+      },
+      {
+        "id": "051",
+        "question": "Osmanlının paylaşılması durumunda hangi şehirlere dokunulmayacaktı?",
+        "answers": [
+          {
+            "text": "İstanbul ve Rumeli'ye",
+            "answer_start": 421
+          }
+        ]
+      },
+      {
+        "id": "052",
+        "question": "Fransa hangi devletler arasında arabuluculuk yapacaktı?",
+        "answers": [
+          {
+            "text": "Rusya ile Osmanlı Devleti",
+            "answer_start": 216
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Türklerin Anadolu'yu yurt edinmesiyle birlikte özellikle Avrupalı devletler için ortak amaç bu milleti, geldiği yere yani Orta Asya topraklarına geri göndermek olmuştur. Özellikle doğu ile olan ilişkilerde bu ilke temel alınmış ve dünyanın “Şark Meselesi” olarak adlandırdığı genel bir görüş meydana gelmiştir. Şark Meselesi, ilk defa 1815'te Viyana Kongresi'nde kullanıldı ve ondan sonra, siyaset adamlarıyla tarihçiler nezdinde önem kazandı. Meselenin ortaya çıkışı: Viyana Kongresi, Napolyon Bonapart'ın altüst ettiği Avrupa haritasını düzene koymak için toplandığı sıralarda, Rus Çarı Aleksandre, Kongre delegelerini Rum davasıyla ilgilendirmek istedi. Kongre, milliyetçilik düşmanı, Metternich'in ve doğuda Rusya'nın genişlemesini daima endişe ile karşılamış olan İngiltere'nin etkisiyle, bu konu üzerinde görüşmeler yapılmasını reddetti. Buna rağmen, Rus delegeleri, resmi görüşmelerin dışında, kongre üyelerinin dikkatini Osmanlı İmparatorluğu idaresinde yaşamakta olan Hristiyan halkın durumu üzerine çekmeye çalıştılar ve bu durum için “Şark Meselesi” terimini kullandılar.",
+    "qas": [
+      {
+        "id": "053",
+        "question": "Şark Meselesi ilk defa 1815'te nerede kullanıldı? ",
+        "answers": [
+          {
+            "text": "Viyana Kongresi'nde",
+            "answer_start": 343
+          }
+        ]
+      },
+      {
+        "id": "054",
+        "question": "Şark Meselesi ilk defa hangi tarihta Viyana Kongresi'nde kullanıldı?",
+        "answers": [
+          {
+            "text": "1815'te",
+            "answer_start": 335
+          }
+        ]
+      },
+      {
+        "id": "055",
+        "question": "1815'te Viyana Kongresi'nde Türkleri Orta Asya topraklarına geri göndermek isteyen görüş nedir?",
+        "answers": [
+          {
+            "text": "Şark Meselesi",
+            "answer_start": 241
+          }
+        ]
+      },
+      {
+        "id": "056",
+        "question": "Avrupa haritasını kim altüst etmiştir?",
+        "answers": [
+          {
+            "text": "Napolyon Bonapart",
+            "answer_start": 486
+          }
+        ]
+      },
+      {
+        "id": "058",
+        "question": "Şark Meselesi terimini kim kullandı?",
+        "answers": [
+          {
+            "text": "Rus delegeleri",
+            "answer_start": 857
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Şark Meselesi terimi, Viyana Kongresi'nden sonra diplomatlar arasında çok kullanılmaya ve çeşitli manalar kazanmaya başladı. 19. yüzyılın ilk yarısında Şark meselesi, genel olarak, Osmanlı İmparatorluğu'nun toprak bütünlüğünün korunması, aynı asrın ikinci yarısında Türklerin Avrupa'daki topraklarının paylaşılması, 20. yüzyılda da imparatorluğun bütün topraklarının bölüşülmesi manasında kullanıldı. Fakat Osmanlı İmparatorluğu'nun iç ve dış siyasetinde buhranlı her olay da Avrupalılarca “Şark Meselesi” başlığı altında incelendi. Bu diplomatlar, Şark Meselesi terimi ile bir hal ve istikbal durumunu anlarken, Avrupalı tarihçiler ise aynı terimi geçmiş zamanlardaki Türk-Avrupa ilişkilerini açıklamak için kullandılar. Böylece Şark Meselesi, bir tarihi terim olarak anlam kazanmaya başladı.",
+    "qas": [
+      {
+        "id": "059",
+        "question": "Şark Meselesi terimi ne zamandan sonra diplomatlar arasında çok kullanılmaya ve çeşitli manalar kazanmaya başladı?",
+        "answers": [
+          {
+            "text": "Viyana Kongresi'nden sonra",
+            "answer_start": 22
+          }
+        ]
+      },
+      {
+        "id": "060",
+        "question": "Şark Meselesi ne zaman Osmanlı İmparatorluğu'nun toprak bütünlüğünün korunması manasında kullanıldı?",
+        "answers": [
+          {
+            "text": "19. yüzyılın ilk yarısında",
+            "answer_start": 125
+          }
+        ]
+      },
+      {
+        "id": "061",
+        "question": "Şark Meselesi ne zaman Türklerin Avrupa'daki topraklarının paylaşılması manasında kullanıldı?",
+        "answers": [
+          {
+            "text": "aynı asrın ikinci yarısında",
+            "answer_start": 238
+          }
+        ]
+      },
+      {
+        "id": "062",
+        "question": "Şark Meselesi ne zaman imparatorluğun bütün topraklarının bölüşülmesi manasında kullanıldı?",
+        "answers": [
+          {
+            "text": "20. yüzyılda",
+            "answer_start": 316
+          }
+        ]
+      },
+      {
+        "id": "063",
+        "question": "Avrupalı tarihçiler aynı terimi ne için kullandılar?",
+        "answers": [
+          {
+            "text": "geçmiş zamanlardaki Türk-Avrupa ilişkilerini açıklamak için ",
+            "answer_start": 649
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Şark meselesi temel hatlarıyla iki önemli süreçten oluşmaktadır. Bunlardan birincisi “1071-1683” yılları arasındaki Şark Meselesi'dir. Bu tarihler arasında Avrupa, Türklere karşı savunmaya geçmiş, Türkler ise fetihlere hız kazandırarak akıncılarını Avrupa topraklarına göndermiştir. Bu ilk süreç olan Şark Meselesinde temel amaç Türkleri Anadolu'ya sokmamak, Türklerin Anadolu'daki ilerleyişini durdurmak ve Türklerin Rumeli'ye girişini engellemektir. İstanbul'un Türkler tarafından fethini engellemek isteyen Avrupa devletleri, Türklerin Balkanlar üzerinden Avrupa içlerine doğru ilerleyişine engel olmak için birçok politikalar izlemişler ve bu politikalarda Şark Meselesinin ilk planlı durdurma safhasını oluşturmaktadır.",
+    "qas": [
+      {
+        "id": "066",
+        "question": "'1071-1683' tarihleri arasında kim savunmaya geçmiş?",
+        "answers": [
+          {
+            "text": "Avrupa",
+            "answer_start": 156
+          }
+        ]
+      },
+      {
+        "id": "067",
+        "question": "'1071-1683' tarihleri arasında Avrupa kime karşı savunmaya geçmiş?",
+        "answers": [
+          {
+            "text": "Türklere",
+            "answer_start": 164
+          }
+        ]
+      },
+      {
+        "id": "068",
+        "question": "Türkler fetihlere hız kazandırarak akıncılarını nereye göndermiştir?",
+        "answers": [
+          {
+            "text": "Avrupa topraklarına",
+            "answer_start": 249
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Şark meselesi'nin Batılılarca bu hedeflerine rağmen, Türkler Anadolu'ya girmiş, Balkanları tamamen ele geçirmiş ve Viyana kapısına kadar dayanmışlardır. Ancak 1683 tarihinde Türklerin Merzifonlu Kara Mustafa Paşa komutasında Viyana önlerindeki yenilgisi “Şark Meselesi”nin birinci safhasını da sona erdirmiştir. Birinci aşamanın bitmesiyle birlikte aynı şekilde bu tarihlerde şark meselesinin ikinci safhası başlamıştır. Bu safhada, yenilgiye uğrayan Türkler, Anadolu'da tutunmaya çalışmış; Avrupa devletleri ise taarruza geçmiştir. 1920 yılına kadar devam eden bu aşamada Avrupa devletlerinin ilk amacı Avrupa'daki Türk hakimiyetinde olan Hristiyan milletlerini isyana teşvik ederek kurtarmaktır. Birinci maddede istenen amaca ulaşılmazsa ikinci bir plan olarak Türklerden bu Hristiyan milletleri için reformlar (Islahat Fermanı) istemek olacaktır. İkinci aşamada Türkleri Balkanlardan tamamen atmak, İstanbul'u Türklerin elinden almak, Osmanlı Devleti'nin toprakları üzerinde yaşayan Hıristiyan azınlıkları lehine reformlar yaptırmak, muhtariyet elde etmek veya mümkün olursa istiklallerine kavuşturmaktır. Yedi cihana hükmeden Osmanlı gibi bir devletin özellikle Kuzey Afrika topraklarına sahip olması Avrupalı devletlerin bir hayli canını sıkıyordu. Bilindiği üzere ham madde ve yeni pazar arayışı Avrupalı devletleri bir hayli zorlamaktaydı. Hindistan ve diğer kolonilere giden kara yolunun büyük bir kısmının Türk topraklarından geçmesi de bu toprakları ele geçirmenin ne kadar önemli olduğunu gösteriyordu. Şark meselesinin en büyük nedeni olan uluslararası çıkarlar için, Osmanlı tebaasında bulunan Müslüman toplumları, özellikle Araplar'ı Osmanlı devletine karşı kışkırtmak ve devletten koparmak için birçok girişimde bulundular. Emperyalist düşüncelerle çıkarılmaya çalışılan bu isyanlarda Arap milliyetçiliği olgusu bir dayanak noktası olarak kullanılmıştır.",
+    "qas": [
+      {
+        "id": "072",
+        "question": "Yenilgiye uğrayan Türkler nerede tutunmaya çalışmış?",
+        "answers": [
+          {
+            "text": "Anadolu'da",
+            "answer_start": 460
+          }
+        ]
+      },
+      {
+        "id": "074",
+        "question": "Şark Meselesi' nin birinci aşamasını ne sona erdirmiştir? ",
+        "answers": [
+          {
+            "text": "Türklerin Merzifonlu Kara Mustafa Paşa komutasında Viyana önlerindeki yenilgisi",
+            "answer_start": 174
+          }
+        ]
+      },
+      {
+        "id": "075",
+        "question": "1683 tarihinde Türkler Viyana önlerindeki yenilgisinde kimin komutasındadır?",
+        "answers": [
+          {
+            "text": "Merzifonlu Kara Mustafa Paşa",
+            "answer_start": 184
+          }
+        ]
+      },
+      {
+        "id": "077",
+        "question": "Bu aşama ne zamana kadar devam etmiştir?",
+        "answers": [
+          {
+            "text": "1920 yılına kadar ",
+            "answer_start": 533
+          }
+        ]
+      },
+      {
+        "id": "079",
+        "question": "1920 yılına kadar devam eden bu aşamada Avrupa devletlerinin ilk amacı nedir?",
+        "answers": [
+          {
+            "text": "Avrupa'daki Türk hakimiyetinde olan Hristiyan milletlerini isyana teşvik ederek kurtarmaktır",
+            "answer_start": 604
+          }
+        ]
+      },
+      {
+        "id": "080",
+        "question": "Avrupalı devletlerin bir hayli canını sıkan neydi?",
+        "answers": [
+          {
+            "text": "Yedi cihana hükmeden Osmanlı gibi bir devletin özellikle Kuzey Afrika topraklarına sahip olması ",
+            "answer_start": 1109
+          }
+        ]
+      },
+      {
+        "id": "081",
+        "question": "Yedi cihana hükmeden Osmanlı gib bir devletin özellikle Kuzey Afrika topraklarına sahip olması kimin bir hayli canını sıkıyordu?",
+        "answers": [
+          {
+            "text": "Avrupalı devletlerin",
+            "answer_start": 1205
+          }
+        ]
+      },
+      {
+        "id": "082",
+        "question": "Bilindiği üzere ham madde ve yeni pazar arayışı kimi bir hayli zorlamaktaydı?",
+        "answers": [
+          {
+            "text": "Avrupalı devletleri",
+            "answer_start": 1302
+          }
+        ]
+      },
+      {
+        "id": "083",
+        "question": "Emperyalist düşüncelerle çıkarılmaya çalışılan bu isyanlarda bir dayanak noktası olarak kullanılmıştır?",
+        "answers": [
+          {
+            "text": "Arap milliyetçiliği olgusu",
+            "answer_start": 1800
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Türkleri 1878 Berlin Antlaşmasıyla Balkanlardan attıklarına inanan Avrupa Devletleri, Şark Meselesi ile özellikle Osmanlı Devleti'ni Orta Asya topraklarına kaydırmayı başarmışlardır. Berlin Antlaşması ile Ermeni meselesi ilk defa uluslararası bir sorun haline gelmiştir. Nitekim Berlin Antlaşmasına koydukları 61. madde ile Anadolu'da yaşayan Ermeniler lehinde reformlar yapılacağını Osmanlı'ya kabul ettirmişlerdir. Bu madde, Avrupalı devletlerin Anadolu'daki Türk direncini kırmak için doğuda kurmayı planladığı bir paravan Ermeni Devleti'nin temellerini atıyordu. Bir diğer görüşe göre ise Şark Meselesi, Hristiyan olan Haç topluluğunun; sembolü hilal olan Türk ve Müslüman toplulukları ile olan savaşıdır. Avrupa için Müslüman Türk, Türk ise Müslüman demektir. Özellikle Avrupalı devletlerin doğu planlarından biri de büyük bir tehlike arz eden Rus devletinin sıcak denizlere inme politikasını engellemekti. Özellikle 1840 yılında toplanan Londra Konferansı'nda Batılı devletler; İngiltere, Rusya, Fransa, Avusturya, Prusya ve Osmanlı Devleti arasında Londra Barışı imzalanırken, Boğazlar bütün devletlere kapatıldı. Bu antlaşmanın koşullarından sonra Rusya, Avrupalı devletlerin boğazlardaki etkisi azaltmış olmasına rağmen Akdeniz üzerinden sıcak denizlere inme hayallerini de tarihe gömmüştür.",
+    "qas": [
+      {
+        "id": "084",
+        "question": "Berlin Antlaşması hangi tarihte yapılmışıtr?",
+        "answers": [
+          {
+            "text": "1878",
+            "answer_start": 9
+          }
+        ]
+      },
+      {
+        "id": "085",
+        "question": "Berlin Antlaşmasına koydukları hangi madde ile Anadolu'da yaşayan Ermeniler lehinde reformlar yapılacağını Osmanlı'ya kabul ettirmişlerdir?",
+        "answers": [
+          {
+            "text": "61. madde",
+            "answer_start": 310
+          }
+        ]
+      },
+      {
+        "id": "086",
+        "question": "Hangi antlaşma ile Ermeni meselesi ilk defa uluslarası bir sorun haline gelmiştir?",
+        "answers": [
+          {
+            "text": "Berlin Antlaşması",
+            "answer_start": 183
+          }
+        ]
+      },
+      {
+        "id": "087",
+        "question": "Berlin Antlaşması ile ne ilk defa uluslarası bir sorun haline gelmiştir?",
+        "answers": [
+          {
+            "text": "Ermeni meselesi",
+            "answer_start": 205
+          }
+        ]
+      },
+      {
+        "id": "088",
+        "question": "Berlin Antlaşmasına koydukları 61. madde ile neyi Osmanlı'ya kabul ettirmişlerdir?",
+        "answers": [
+          {
+            "text": "Ermeniler lehinde reformlar yapılacağını",
+            "answer_start": 343
+          }
+        ]
+      },
+      {
+        "id": "089",
+        "question": "Bu madde neyin temellerini atıyordu?",
+        "answers": [
+          {
+            "text": "Avrupalı devletlerin Anadolu'daki Türk direncini kırmak için doğuda kurmayı planladığı bir paravan Ermeni Devleti'nin temellerini",
+            "answer_start": 427
+          }
+        ]
+      },
+      {
+        "id": "090",
+        "question": "Bir diğer görüşe göre ise Şark Meselesi nedir?",
+        "answers": [
+          {
+            "text": "Hristiyan olan Haç topluluğunun; sembolü hilal olan Türk ve Müslüman toplulukları ile olan savaşıdır",
+            "answer_start": 608
+          }
+        ]
+      },
+      {
+        "id": "091",
+        "question": "Hristiyan olan Haç topluluğunun; sembolü hilal olan Türk ve Müslüman toplulukları ile olan savaşıdır",
+        "answers": [
+          {
+            "text": "büyük bir tehlike arz eden Rus devletinin sıcak denizlere inme politikasını engellemekti",
+            "answer_start": 822
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Kavalalı Mehmet Ali Paşa Napolyon tarafından işgal edilen Mısır'ı kurtarmak için Mısır'a giden gönüllülerdendi. Okur yazar değil fakat zeki bir kimseydi. Askeri yeteneklere de sahip olan Kavalalı Mehmet Ali Paşa Kahire'de başı bozuk askerin belli bir disiplin altına alınmasını sağlamış, başarı gösterdiği için Mısır'a vali olmuştu (1804). Kavalalı Mehmet Ali Paşa valililiği sırasında önemli hizmetleri bulunan değerli bir devlet adamıydı. Kölemen beylerini ortadan kaldırmıştı. Fransızların desteğiyle kuvvetli bir ordu ve donanma kurmuş, sulama kanalları açarak tarıma önem vermiş ve Mısır'ın kalkınmasını sağlamıştı. Kavalalı Mehmet Ali Paşa, Mora isyanı sırasında Mora ve Girit valiliklerinin kendisine verilmesi şartıyla Sultan İkinci Mahmut'a yardım etmişti. İsyan bastırıldı fakat daha sonra Mora kaybedildi. Kavalalı Mehmet Ali Paşa Osmanlı Rus savaşlarında Osmanlı Devleti'nin yardım isteğine rağmen kuvvet göndermedi. Mora valiliği yerine Suriye valiliğini isteyen Kavalalı Mehmet Ali Paşa, bu isteğinin reddedilmesi üzerine Suriye'yi işgal etti. Kavalalı Mehmet Ali Paşa'nın oğlu olan İbrahim Paşa, isyan sırasında Suriye'yi aldı. Torosları geçen İbrahim Paşa Adana ve Konya'da Osmanlı kuvvetlerini yenilgiye uğrattı.",
+    "qas": [
+      {
+        "id": "092",
+        "question": "Kavalalı Mehmet Ali Paşa kimdi?",
+        "answers": [
+          {
+            "text": "Napolyon tarafından işgal edilen Mısır'ı kurtarmak için Mısır'a giden gönüllülerdendi",
+            "answer_start": 25
+          }
+        ]
+      },
+      {
+        "id": "094",
+        "question": "Kavalalı Mehmet Ali Paşa nerede başı bozuk askerin belli bir disiplin altına alınmasını sağlamıştır?",
+        "answers": [
+          {
+            "text": "Kahire'de",
+            "answer_start": 212
+          }
+        ]
+      },
+      {
+        "id": "095",
+        "question": "Kavalalı Mehmet Ali Paşa niçin Mısır'a vali olmuştur?",
+        "answers": [
+          {
+            "text": "başarı gösterdiği için",
+            "answer_start": 288
+          }
+        ]
+      },
+      {
+        "id": "096",
+        "question": "Kavalalı Mehmet Ali Paşa kimin desteğiyle kuvvetli bir ordu ve donanma kurmuştur?",
+        "answers": [
+          {
+            "text": "Fransızların desteğiyle",
+            "answer_start": 480
+          }
+        ]
+      },
+      {
+        "id": "097",
+        "question": "Kavalalı Mehmet Ali Paşa neyi sağlamıştı?",
+        "answers": [
+          {
+            "text": "Mısır'ın kalkınmasını",
+            "answer_start": 587
+          }
+        ]
+      },
+      {
+        "id": "099",
+        "question": "Kavalalı Mehmet Ali Paşa, Mora isyanı sırasında Mora ve Girit valiliklerinin kendisine verilmesi şartıyla kime yardım etmişti?",
+        "answers": [
+          {
+            "text": "Sultan İkinci Mahmut'a",
+            "answer_start": 727
+          }
+        ]
+      },
+      {
+        "id": "100",
+        "question": "Kim Mora isyanı sırasında Mora ve Girit valiliklerinin kendisine verilmesi şartıyla Sultan İkinci Mahmut'a yardım etmişti?",
+        "answers": [
+          {
+            "text": "Kavalalı Mehmet Ali Paşa",
+            "answer_start": 621
+          }
+        ]
+      },
+      {
+        "id": "101",
+        "question": "İsyanın bastırılmasına rağmen daha sonra kaybedilen yer neresidir?",
+        "answers": [
+          {
+            "text": "Mora",
+            "answer_start": 800
+          }
+        ]
+      },
+      {
+        "id": "102",
+        "question": "Kim Osmanlı Rus savaşlarında Osmanlı Devleti'nin yardım isteğine rağmen kuvvet göndermedi?",
+        "answers": [
+          {
+            "text": "Kavalalı Mehmet Ali Paşa",
+            "answer_start": 817
+          }
+        ]
+      },
+      {
+        "id": "103",
+        "question": "Kavalalı Mehmet Ali Paşa hangi savaşlarda Osmanlı Devleti'nin yardım isteğine rağmen kuvvet göndermedi?",
+        "answers": [
+          {
+            "text": "Osmanlı Rus savaşlarında ",
+            "answer_start": 842
+          }
+        ]
+      },
+      {
+        "id": "104",
+        "question": "Mora valiliği yerine hangi valiliği isteyen Kavalalı Mehmet Ali Paşa, bu isteğinin reddedilmesi üzerine Suriye'yi işgal etti?",
+        "answers": [
+          {
+            "text": "Suriye",
+            "answer_start": 950
+          }
+        ]
+      },
+      {
+        "id": "105",
+        "question": "Hangi valiliğin yerine Suriye valiliğini isteyen Kavalalı Mehmet Ali Paşa, bu isteğinin reddedilmesi üzerine Suriye'yi işgal etti?",
+        "answers": [
+          {
+            "text": "Mora",
+            "answer_start": 929
+          }
+        ]
+      },
+      {
+        "id": "106",
+        "question": "Mora valiliği yerine Suriye valiliğini isteyen Kavalalı Mehmet Ali Paşa, bu isteğinin reddedilmesi üzerine nereyi işgal etti?",
+        "answers": [
+          {
+            "text": "Suriye",
+            "answer_start": 1036
+          }
+        ]
+      },
+      {
+        "id": "107",
+        "question": "Kim isyan sırasında Suriye'yi aldı? ",
+        "answers": [
+          {
+            "text": "Kavalalı Mehmet Ali Paşa'nın oğlu olan İbrahim Paşa",
+            "answer_start": 1058
+          }
+        ]
+      },
+      {
+        "id": "108",
+        "question": "Kavalalı Mehmet Ali Paşa'nın oğlu olan İbrahim Paşa, isyan sırasında nereyi aldı?",
+        "answers": [
+          {
+            "text": "Suriye'yi",
+            "answer_start": 1127
+          }
+        ]
+      },
+      {
+        "id": "109",
+        "question": "Kavalalı Mehmet Ali Paşa'nın oğlu olan İbrahim Paşa, ne zaman Suriye'yi aldı?",
+        "answers": [
+          {
+            "text": "isyan sırasında",
+            "answer_start": 1111
+          }
+        ]
+      },
+      {
+        "id": "110",
+        "question": "Kim Adana ve Konya'da Osmanlı kuvvetlerini yenilgiye uğrattı?",
+        "answers": [
+          {
+            "text": "Torosları geçen İbrahim Paşa ",
+            "answer_start": 1143
+          }
+        ]
+      },
+      {
+        "id": "111",
+        "question": "Torosları geçen İbrahim Paşa nerede Osmanlı kuvvetlerini yenilgiye uğrattı?",
+        "answers": [
+          {
+            "text": "Adana ve Konya'da",
+            "answer_start": 1172
+          }
+        ]
+      },
+      {
+        "id": "112",
+        "question": "Torosları geçen İbrahim Paşa Adana ve Konya'da kimi yenilgiye uğrattı?",
+        "answers": [
+          {
+            "text": "Osmanlı kuvvetlerini",
+            "answer_start": 1190
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Bu başarılardan sonra Mehmet Ali Paşa kuvvetlerini İstanbul'a kadar durdurabilecek herhangi bir güç kalmamıştı. Fransa, Mehmet Ali Paşa'yı destekliyor, İngiltere ise tereddütte kalıyordu. Osmanlı İmparatorluğu isyanı bastırmak için Rusya'dan yardım istemek zorunda kaldı. Padişah, Tuna kıyılarındaki otuz bin kişilik Rus birliğinin İstanbul'u korumak üzere gönderilmesini istedi. Rusya bu isteği kabul edince padişah, Mehmet Ali Paşa ile anlaşmak için yeni çareler aramaya başladı fakat Fransa bu çabaları etkisiz kıldı.  Rusya'nın Mısır'a baskısı ve durumun çıkarlarına uygun olmadığını gören Fransa ve İngiltere'nin girişimleri sonucu 14 Mayıs 1833'te Osmanlılarla Mehmet Ali Paşa arasında Kütahya Antlaşması yapıldı. Kütahya Antlaşmasına göre, Kavalalı Mehmet Ali Paşa'ya Mora ve Girit valiliklerinin yanı sıra Suriye valiliği, oğlu İbrahim Paşa'ya da Cidde valiliğine olarak Adana valiliği de verildi. Kütahya Antlaşması, Mısır valisi ile olan anlaşmazlıkları çözümleyecek ilkelerden çok uzaktı. II. Mahmut barışı sağlamış olmakla birlikte kendini güvencede hissetmiyordu. O yüzden Rusya'yla bir karşılıklı yardımlaşma ve saldırmazlık antlaşması yapmaya karar verdi. Rusya da yardımlarının mükâfatını almak için bir antlaşma yapmak istiyordu. ",
+    "qas": [
+      {
+        "id": "113",
+        "question": "Bu başarılardan sonra kimi İstanbul'a kadar durdurabilecek herhangi bir güç kalmamıştı?",
+        "answers": [
+          {
+            "text": "Mehmet Ali Paşa kuvvetlerini",
+            "answer_start": 22
+          }
+        ]
+      },
+      {
+        "id": "114",
+        "question": "Bu başarılardan sonra Mehmet Ali Paşa kuvvetlerini nereye kadar durdurabilecek herhangi bir güç kalmamıştı?",
+        "answers": [
+          {
+            "text": "İstanbul'a kadar ",
+            "answer_start": 51
+          }
+        ]
+      },
+      {
+        "id": "115",
+        "question": "Kim Mehmet Ali Paşa'yı destekliyordu?",
+        "answers": [
+          {
+            "text": "Fransa",
+            "answer_start": 112
+          }
+        ]
+      },
+      {
+        "id": "116",
+        "question": "Kim tereddütte kalıyordu?",
+        "answers": [
+          {
+            "text": "İngiltere",
+            "answer_start": 152
+          }
+        ]
+      },
+      {
+        "id": "117",
+        "question": "Kim isyanı bastırmak için Rusya'dan yardım istemek zorunda kaldı?",
+        "answers": [
+          {
+            "text": "Osmanlı İmparatorluğu",
+            "answer_start": 188
+          }
+        ]
+      },
+      {
+        "id": "118",
+        "question": "Osmanlı İmparatorluğu isyanı bastırmak için kimden yardım istemek zorunda kaldı?",
+        "answers": [
+          {
+            "text": "Rusya'dan",
+            "answer_start": 232
+          }
+        ]
+      },
+      {
+        "id": "119",
+        "question": "Osmanlı İmparatorluğu neden Rusya'dan yardım istemek zorunda kaldı?",
+        "answers": [
+          {
+            "text": "isyanı bastırmak için",
+            "answer_start": 210
+          }
+        ]
+      },
+      {
+        "id": "120",
+        "question": "Kim, Tuna kıyılarındaki otuz bin kişilik Rus birliğinin İstanbul'u korumak üzere gönderilmesini istedi?",
+        "answers": [
+          {
+            "text": "Padişah",
+            "answer_start": 272
+          }
+        ]
+      },
+      {
+        "id": "121",
+        "question": "Padişah, ne istedi?",
+        "answers": [
+          {
+            "text": "Tuna kıyılarındaki otuz bin kişilik Rus birliğinin İstanbul'u korumak üzere gönderilmesini istedi",
+            "answer_start": 281
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "question": "Rusya bu isteği kabul edince kim Mehmet Ali Paşa ile anlaşmak için yeni çareler aramaya başladı?",
+        "answers": [
+          {
+            "text": "padişah",
+            "answer_start": 409
+          }
+        ]
+      },
+      {
+        "id": "123",
+        "question": "Kim bu isteği kabul edince padişah, Mehmet Ali Paşa ile anlaşmak için yeni çareler aramaya başladı?",
+        "answers": [
+          {
+            "text": "Rusya",
+            "answer_start": 380
+          }
+        ]
+      },
+      {
+        "id": "124",
+        "question": "Rusya bu isteği kabul edince padişah, kimle anlaşmak için yeni çareler aramaya başladı?",
+        "answers": [
+          {
+            "text": "Mehmet Ali Paşa ile",
+            "answer_start": 418
+          }
+        ]
+      },
+      {
+        "id": "125",
+        "question": "Kim bu çabaları etkisiz kıldı?",
+        "answers": [
+          {
+            "text": "Fransa",
+            "answer_start": 487
+          }
+        ]
+      },
+      {
+        "id": "126",
+        "question": "Kimin girişimleri sonucu 14 Mayıs 1833'te Osmanlılarla Mehmet Ali Paşa arasında Kütahya Antlaşması yapıldı?",
+        "answers": [
+          {
+            "text": "Rusya'nın Mısır'a baskısı ve durumun çıkarlarına uygun olmadığını gören Fransa ve İngiltere'nin girişimleri sonucu ",
+            "answer_start": 522
+          }
+        ]
+      },
+      {
+        "id": "127",
+        "question": "Rusya'nın Mısır'a baskısı ve durumun çıkarlarına uygun olmadığını gören Fransa ve İngiltere'nin girişimleri sonucu ne zaman Osmanlılarla Mehmet Ali Paşa arasında Kütahya Antlaşması yapıldı?",
+        "answers": [
+          {
+            "text": "14 Mayıs 1833'te",
+            "answer_start": 637
+          }
+        ]
+      },
+      {
+        "id": "128",
+        "question": "Rusya'nın Mısır'a baskısı ve durumun çıkarlarına uygun olmadığını gören Fransa ve İngiltere'nin girişimleri sonucu 14 Mayıs 1833'te kimler arasında Kütahya Antlaşması yapıldı?",
+        "answers": [
+          {
+            "text": "Osmanlılarla Mehmet Ali Paşa arasında",
+            "answer_start": 654
+          }
+        ]
+      },
+      {
+        "id": "129",
+        "question": "Rusya'nın Mısır'a baskısı ve durumun çıkarlarına uygun olmadığını gören Fransa ve İngiltere'nin girişimleri sonucu 14 Mayıs 1833'te Osmanlılarla Mehmet Ali Paşa arasında hangi antlaşma yapıldı?",
+        "answers": [
+          {
+            "text": "Kütahya Antlaşması",
+            "answer_start": 692
+          }
+        ]
+      },
+      {
+        "id": "131",
+        "question": "Hangi antlaşma Mısır valisi ile olan anlaşmazlıkları çözümleyecek ilkelerden çok uzaktı?",
+        "answers": [
+          {
+            "text": "Kütahya Antlaşması",
+            "answer_start": 906
+          }
+        ]
+      },
+      {
+        "id": "132",
+        "question": "Kim barışı sağlamış olmakla birlikte kendini güvencede hissetmiyordu?",
+        "answers": [
+          {
+            "text": "II. Mahmut",
+            "answer_start": 1000
+          }
+        ]
+      },
+      {
+        "id": "133",
+        "question": "O yüzden kiminle bir karşılıklı yardımlaşma ve saldırmazlık antlaşması yapmaya karar verdi?",
+        "answers": [
+          {
+            "text": "Rusya'yla",
+            "answer_start": 1086
+          }
+        ]
+      },
+      {
+        "id": "134",
+        "question": "O yüzden Rusya'yla neye karar verdi?",
+        "answers": [
+          {
+            "text": "bir karşılıklı yardımlaşma ve saldırmazlık antlaşması yapmaya ",
+            "answer_start": 1096
+          }
+        ]
+      },
+      {
+        "id": "135",
+        "question": "Kim yardımlarının mükâfatını almak için bir antlaşma yapmak istiyordu?",
+        "answers": [
+          {
+            "text": "Rusya",
+            "answer_start": 1171
+          }
+        ]
+      },
+      {
+        "id": "136",
+        "question": "Rusya da neden bir antlaşma yapmak istiyordu?",
+        "answers": [
+          {
+            "text": "yardımlarının mükâfatını almak için",
+            "answer_start": 1180
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Kütahya Antlaşması, Osmanlı İmparatorluğu ile Mısır Valisi Kavalalı Mehmet Ali Paşa arasında 14 Mayıs 1833 tarihinde imzalanan, Birinci Mısır-Osmanlı Savaşını sona erdirip Şam, Girit ve Adana vilayetlerinin yeni statüsünü belirleyen bir barış ve düzenleme antlaşmasıdır. Osmanlı İmparatorluğu Mora isyanını bastırmak için Mısır valisi Kavalalı Mehmet Ali Paşa'dan yardım istemişti. Mehmet Ali Paşa bu yardımına karşılık Mora'yı istedi. Fakat Yunanistan bağımsız olunca Mora da Yunanistan'a katıldı ve Mehmet Ali Paşa bu sefer Suriye valiliğini istedi. Osmanlılar Suriye'yi Mehmet Ali Paşa'ya vermek istemeyince Mehmet Ali Paşa saldırıya geçti ve önce Konya, sonra da Kütahya'ya kadar ilerledi. Meselenin iyice püsküllü bir hal alması Sultan II. Mahmud'u şaşırttığından, o sırada Rusya Devleti tarafından sunulan yardım teklifi kabul edildi ve Hünkar İskelesi Antlaşması imzalandı. İstanbul'a bir grup Rus askeri geldi. Osmanlı Hükümeti'nin bu suretle Rusya'nın kucağına atılması İngiltere ve Avusturya'yı telaşa düşürdüğünden Mısır meselesi bir Avrupa meselesi halini aldı ve nihayet bazı vaziyetlerden sonra Mehmet Ali Paşa'nın barış sonucuna varması mecbur edildi.",
+    "qas": [
+      {
+        "id": "137",
+        "question": "Kütahya Antlaşması kimler arasında imzalandı?",
+        "answers": [
+          {
+            "text": "Osmanlı İmparatorluğu ile Mısır Valisi Kavalalı Mehmet Ali Paşa arasında",
+            "answer_start": 20
+          }
+        ]
+      },
+      {
+        "id": "138",
+        "question": "Kütahya Antlaşması ne zaman imzalandı?",
+        "answers": [
+          {
+            "text": "14 Mayıs 1833 tarihinde",
+            "answer_start": 93
+          }
+        ]
+      },
+      {
+        "id": "139",
+        "question": "Kütahya Antlaşması nedir?",
+        "answers": [
+          {
+            "text": "Birinci Mısır-Osmanlı Savaşını sona erdirip Şam, Girit ve Adana vilayetlerinin yeni statüsünü belirleyen bir barış ve düzenleme antlaşmasıdır",
+            "answer_start": 128
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "question": "Osmanlı İmparatorluğu Mora isyanını bastırmak için kimden yardım istemişti? ",
+        "answers": [
+          {
+            "text": "Mısır valisi Kavalalı Mehmet Ali Paşa'dan",
+            "answer_start": 322
+          }
+        ]
+      },
+      {
+        "id": "141",
+        "question": "Osmanlı İmparatorluğu ne için Mısır valisi Kavalalı Mehmet Ali Paşa'dan yardım istemişti?",
+        "answers": [
+          {
+            "text": "Mora isyanını bastırmak için",
+            "answer_start": 293
+          }
+        ]
+      },
+      {
+        "id": "142",
+        "question": "Kim Mora isyanını bastırmak için Mısır valisi Kavalalı Mehmet Ali Paşa'dan yardım istemişti?",
+        "answers": [
+          {
+            "text": "Osmanlı İmparatorluğu",
+            "answer_start": 271
+          }
+        ]
+      },
+      {
+        "id": "143",
+        "question": "Kim bu yardımına karşılık Mora'yı istedi?",
+        "answers": [
+          {
+            "text": "Mehmet Ali Paşa",
+            "answer_start": 382
+          }
+        ]
+      },
+      {
+        "id": "144",
+        "question": "Mehmet Ali Paşa bu yardımına karşılık nereyi istedi?",
+        "answers": [
+          {
+            "text": "Mora'yı",
+            "answer_start": 420
+          }
+        ]
+      },
+      {
+        "id": "145",
+        "question": "Yunanistan bağımsız olunca neresi de Yunanistan'a katıldı?",
+        "answers": [
+          {
+            "text": "Mora da",
+            "answer_start": 469
+          }
+        ]
+      },
+      {
+        "id": "146",
+        "question": "Yunanistan bağımsız olunca Mora da nereye katıldı?",
+        "answers": [
+          {
+            "text": "Yunanistan'a",
+            "answer_start": 477
+          }
+        ]
+      },
+      {
+        "id": "147",
+        "question": "Mehmet Ali Paşa bu sefer nereyi istedi?",
+        "answers": [
+          {
+            "text": "Suriye valiliğini",
+            "answer_start": 526
+          }
+        ]
+      },
+      {
+        "id": "148",
+        "question": "Kimler Suriye'yi Mehmet Ali Paşa'ya vermek istemedi?",
+        "answers": [
+          {
+            "text": "Osmanlılar",
+            "answer_start": 552
+          }
+        ]
+      },
+      {
+        "id": "149",
+        "question": "Osmanlılar nereyi Mehmet Ali Paşa'ya vermek istemedi?",
+        "answers": [
+          {
+            "text": "Suriye'yi",
+            "answer_start": 563
+          }
+        ]
+      },
+      {
+        "id": "150",
+        "question": "Ne imzalandı?",
+        "answers": [
+          {
+            "text": "Hünkar İskelesi Antlaşması",
+            "answer_start": 563
+          }
+        ]
+      },
+      {
+        "id": "151",
+        "question": "Kimin tarafından sunulan yardım teklifi kabul edildi?",
+        "answers": [
+          {
+            "text": "Rusya Devleti tarafından",
+            "answer_start": 779
+          }
+        ]
+      },
+      {
+        "id": "151",
+        "question": "İstanbul'a kim geldi?",
+        "answers": [
+          {
+            "text": "bir grup Rus askeri",
+            "answer_start": 892
+          }
+        ]
+      },
+      {
+        "id": "152",
+        "question": "Mısır meselesi bir ne halini aldı?",
+        "answers": [
+          {
+            "text": "Avrupa meselesi halini",
+            "answer_start": 1045
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Mustafa Reşit Paşa ve Fransa sefiri Mösyö Varen Kütahya'ya giderek Mehmet Ali Paşa'nın istediği veraset ve tazminat maddeleri geri kalmak şartıyla Beriyyetüşşam ile Adana ve Mısır valilikleri sorumluluğunda kalmak üzere anlaşma sağlandı ve Anadolu'da Mısırlılar'a yardım dolayısıyla itham edilen şahıslar hakkında af ilan edildi ve 1833 Mayıs'ında bir ferman ile Mehmet Ali Paşa hakkında padişah affı ilan edildi.Mehmet Ali Paşa hakkındaki padişah affını kendisine bildirmek üzere Tophane müşiri Halil Rıfat Paşa ile Âmetci Mustafa Reşit Bey evvela Mısır'a daha sonra Kütahya'ya giderek Mehmet Ali ve İbrahim Paşalara anlaşmayı tebliğ ettikleri gibi Adana Eyaleti'nin İbrahim Paşa yönetimine verilmesine dair olan ferman da mühimmatı harbiye nazırı Mehmet Emin Seyda Efendi ile Kütahya'ya gönderilmiştir.",
+    "qas": [
+      {
+        "id": "153",
+        "question": "Ne zaman bir ferman ile Mehmet Ali Paşa hakkında padişah affı ilan edildi?",
+        "answers": [
+          {
+            "text": "1833 Mayıs'ında",
+            "answer_start": 332
+          }
+        ]
+      },
+      {
+        "id": "154",
+        "question": "Mehmet Ali Paşa hakkındaki padişah affını kendisine bildirmek üzere kimler evvela Mısır'a daha sonra Kütahya'ya gitmiştir?",
+        "answers": [
+          {
+            "text": "Tophane müşiri Halil Rıfat Paşa ile Âmetci Mustafa Reşit Bey",
+            "answer_start": 481
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Kavalalı İbrahim Paşa, Kütahya'dan ileri geçmeyerek iki buçuk ay burada kaldıktan sonra 24 Mayıs 1833 günü Kütahya'dan Adana taraflarına çekilmiştir. II. Mahmut kendisini valisi karşısında küçük düşüren ve önemli toprak kaybına neden olan Kütahya Antlaşmasını kabullenememişti. İlk fırsatta Mehmet Ali Paşa'dan Suriye, Filistin ve hatta mümkünse Mısır'ı geri almayı istiyordu. Yani Kütahya Antlaşması aslında Sultan ile Mısır Valisi arasında sorunları çözen bir barış değil, her an sonlanabilecek bir mütarekeydi. Bu durumun farkında olan İngilizler muhtemel bir savaşı engellemek için çaba harcadılar.",
+    "qas": [
+      {
+        "id": "157",
+        "question": "İlk fırsatta neyi istiyordu?",
+        "answers": [
+          {
+            "text": "Mehmet Ali Paşa'dan Suriye, Filistin ve hatta mümkünse Mısır'ı geri almayı",
+            "answer_start": 291
+          }
+        ]
+      },
+      {
+        "id": "158",
+        "question": "Durumun farkında olan kimler muhtemel bir savaşı engellemek için çaba harcadılar?",
+        "answers": [
+          {
+            "text": "İngilizler",
+            "answer_start": 539
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Mısır valiliğini ele geçirdikten sonra (1805), devrin olaylarıyla bunalmış merkezden uzak bu vilâyetteki iktidarına çeşitli tedbir ve reformlarla kuvvet katan ve Osmanlı Devleti'nin içine düştüğü sıkıntı ve krizlerden istifade ile Mısır'da müstakil bir devlet kurmayı düşleyen Mehmed Ali Paşa 1832 yılında isyan bayrağını resmen açmış ve oğlu İbrâhim Paşa idaresindeki kuvvetleri kısa zamanda Anadolu içlerinde ilerleyebilme başarısını göstermişti. Mısır ordusu, 21 Aralık 1832'de Konya'da Sadrazam Mehmed Reşid Paşa kumandasındaki Osmanlı ordusunu yendi; ileri bir hamle ile Kütahya'ya kadar gelerek (2 Şubat 1833) İstanbul'u ve Osmanlı hânedanını tehdit etmeye başladı. Başlangıçtan beri Mısır Valisi Mehmed Ali Paşa'yı desteklemekte olan Fransa karşısında İngiltere'yi bir denge unsuru olarak kendi yanına çekmeyi başaramayan Bâbıâli, nihayet bu yakın tehdit karşısında, gelişmeleri kendi menfaat noktasından hareketle müdahaleye hazır bir endişeyle takip eden ve bu anlamda her türlü askerî tedbiri almış bulunan Rusya'nın yardım tekliflerini kabul etmekten başka bir çare göremedi. Rusya'nın yardıma davet edilmesiyle (3-7 Şubat 1833) Bâbıâli, 3 Ocak 1799 tarihindeki ilk Osmanlı-Rus ittifakından edindiği tecrübelerinin ışığında, kendiliğinden gerçekleşebilecek ve fazlaca davet edilmeyi beklemeyecek bir emrivâkiyi de önlemek istemekteydi. Nitekim Fransa ve İngiltere'yi harekete geçirmek için bu yardım talebini son ana kadar bir koz olarak kullanmaya çalışan Bâbıâli'nin, adı geçen devlet elçileriyle yapmakta olduğu görüşmelerden endişelenen Rusya, gemilerinin Boğaz'a girmesini engelleyebilecek bir uzlaşmanın olgunlaşmasına fırsat ve meydan vermeden sekiz parçalık bir filosunu Karadeniz Boğazı'ndan geçirerek Büyükdere önlerine demirletti (20 Şubat 1833).",
+    "qas": [
+      {
+        "id": "159",
+        "question": "Osmanlı Devleti'nin içine düştüğü sıkıntı ve krizlerden istifade ile Mısır'da müstakil bir devlet kurmayı düşleyen kim? ",
+        "answers": [
+          {
+            "text": "Mehmed Ali Paşa",
+            "answer_start": 277
+          }
+        ]
+      },
+      {
+        "id": "160",
+        "question": "Mehmed Ali Paşa Mısır valiliğini ne zaman ele geçirmiştir?",
+        "answers": [
+          {
+            "text": "1805",
+            "answer_start": 40
+          }
+        ]
+      },
+      {
+        "id": "161",
+        "question": "Mısır'da müstakil bir devlet kurmayı düşleyen Mehmed Ali Paşa isyan bayrağını resmen ne zaman açmış?",
+        "answers": [
+          {
+            "text": "1832 yılında",
+            "answer_start": 293
+          }
+        ]
+      },
+      {
+        "id": "162",
+        "question": "Mısır'da müstakil bir devlet kurmayı kim düşleyen kim?",
+        "answers": [
+          {
+            "text": "Mehmed Ali Paşa",
+            "answer_start": 277
+          }
+        ]
+      },
+      {
+        "id": "164",
+        "question": "Mısır ordusu, 21 Aralık 1832'de Konya'da Sadrazam Mehmed Reşid Paşa kumandasındaki kimi yendi?",
+        "answers": [
+          {
+            "text": "Osmanlı ordusunu",
+            "answer_start": 532
+          }
+        ]
+      },
+      {
+        "id": "165",
+        "question": "Mısır ordusu, Konya'da Sadrazam Mehmed Reşid Paşa kumandasındaki Osmanlı ordusunu ne zaman yendi?",
+        "answers": [
+          {
+            "text": "21 Aralık 1832'de",
+            "answer_start": 463
+          }
+        ]
+      },
+      {
+        "id": "166",
+        "question": "Mısır ordusu, 21 Aralık 1832'de Sadrazam Mehmed Reşid Paşa kumandasındaki Osmanlı ordusunu nerede yendi?",
+        "answers": [
+          {
+            "text": "Konya'da",
+            "answer_start": 481
+          }
+        ]
+      },
+      {
+        "id": "167",
+        "question": "Kim 21 Aralık 1832'de Konya'da Sadrazam Mehmed Reşid Paşa kumandasındaki Osmanlı ordusunu yendi?",
+        "answers": [
+          {
+            "text": "Mısır ordusu",
+            "answer_start": 449
+          }
+        ]
+      },
+      {
+        "id": "168",
+        "question": "Mısır ordusu, 21 Aralık 1832'de Konya'da kimin kumandasındaki Osmanlı ordusunu yendi?",
+        "answers": [
+          {
+            "text": "Sadrazam Mehmed Reşid Paşa kumandasındaki",
+            "answer_start": 490
+          }
+        ]
+      },
+      {
+        "id": "170",
+        "question": "Mısır ordusu Kütahya'ya ne zaman geldi?",
+        "answers": [
+          {
+            "text": "2 Şubat 1833",
+            "answer_start": 602
+          }
+        ]
+      },
+      {
+        "id": "171",
+        "question": "Başlangıçtan beri Mısır Valisi Mehmed Ali Paşa'yı desteklemekte olan kimdir?",
+        "answers": [
+          {
+            "text": "Fransa",
+            "answer_start": 741
+          }
+        ]
+      },
+      {
+        "id": "172",
+        "question": "Kim Rusya'nın yardım tekliflerini kabul etmekten başka bir çare göremedi?",
+        "answers": [
+          {
+            "text": "Bâbıâli",
+            "answer_start": 829
+          }
+        ]
+      },
+      {
+        "id": "173",
+        "question": "Rusya yardıma ne zaman davet edildi?",
+        "answers": [
+          {
+            "text": "3-7 Şubat 1833",
+            "answer_start": 1124
+          }
+        ]
+      },
+      {
+        "id": "174",
+        "question": "İlk Osmanlı-Rus ittifakı ne zamandır?",
+        "answers": [
+          {
+            "text": "3 Ocak 1799 tarihinde",
+            "answer_start": 1149
+          }
+        ]
+      },
+      {
+        "id": "175",
+        "question": "Bâbıâli'nin, Fransa ve İngiltere devlet elçileriyle yapmakta olduğu görüşmelerden endişelenen Rusya ne yaptı?",
+        "answers": [
+          {
+            "text": "sekiz parçalık bir filosunu Karadeniz Boğazı'ndan geçirerek Büyükdere önlerine demirletti",
+            "answer_start": 1662
+          }
+        ]
+      },
+      {
+        "id": "177",
+        "question": "Kim sekiz parçalık bir filosunu Karadeniz Boğazı'ndan geçirerek Büyükdere önlerine demirletti?",
+        "answers": [
+          {
+            "text": "Rusya",
+            "answer_start": 1552
+          }
+        ]
+      },
+      {
+        "id": "178",
+        "question": "Rusya kaç parçalık bir filosunu Karadeniz Boğazı'ndan geçirerek Büyükdere önlerine demirletti?",
+        "answers": [
+          {
+            "text": "sekiz",
+            "answer_start": 1662
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Mehmed Ali Paşa'nın karşı propagandasından ve genel bir infialden çekinen Bâbıâli'nin filonun Boğaz dışında Süzeboli açıklarında demir atması teklifleri ise etkisiz kaldı. Rus filosunun Boğaz'a gelmesi karşısında ne Fransa'nın Mehmed Ali Paşa yanlısı politikasında, ne de İngiltere'nin ısrarla sürdürmekte olduğu tesbit edilen ilgisiz tutumunda bütün diplomatik teşebbüslere rağmen herhangi bir değişiklik görmeyen Bâbıâli, başşehrin müdafaası için Rusya kara kuvvetlerinin de getirilmesine karar verdi (1833 Mart sonları). 5000 kişilik bir Rus kuvveti 5 Nisan'da İstanbul'a gelerek Beykoz'da karaya çıkıp Hünkâr İskelesi'nde karargâh kurdu. O sıralarda Mısır kuvvetleriyle anlaşmak üzere Kütahya'da görüşmeler sürdürülmekteydi. Nihayet Adana'nın da “muhassıllık” olarak İbrâhim Paşa'ya bırakılması, Mısır ve bütün Suriye vilâyetlerinin, diğer bir ifadeyle I. Selim'in 1516 Mercidâbık ve 1517 Ridâniye zaferleriyle ele geçen bütün yerlerin, Mehmed Ali Paşa'ya terkiyle varılan uzlaşma neticesinde Mısır meselesinin birinci safhası sona ermiş ve bu tevcîhatı ihtiva eden ferman 6 Mayıs'ta Mehmed Ali Paşa'ya gönderilerek iki taraf arasındaki ihtilâfa şimdilik son verilmişti. Mısır kuvvetlerinin Toroslar'ın öte taraflarına çekilmesi işi başlamış olmakla beraber Rus kara ve deniz kuvvetlerinde herhangi bir toparlanma gözlenmediği gibi, 5 Mayıs 1833'te çarın büyük yetkilerle yolladığı olağan üstü elçisi Aleksey Orlof'un (Alexej Orlow) İstanbul'a gelişi yapılan bu yardımın faturasının ağır olacağına işaret etmekteydi. Nitekim Orlof, iki devlet arasında 3 Ocak 1799'da yapılan antlaşmaya benzer bir savunma ittifakı teklif etmekte gecikmemiştir. Öte yandan Rusya'nın kara ve deniz kuvvetlerini geri çekmemesi İngiltere ve Fransa'nın donanma nümayişlerine yol açmaktaydı. Ortak harekât, Boğazlar'dan geçerek Rus kuvvetlerini geri çekilmeye zorlama teşebbüslerine kadar varan temayüller gösterdiyse de Rus ittifak teklifinin Bâbıâli tarafından reddine yeterli olmadı. İlk esasları Ahmed Fevzi Paşa ve Orlof arasında tesbit edilen görüşmelere daha sonra Serasker Hüsrev Paşa ve Reîsülküttâb Âkif Efendi ile Rus elçisi Butenef de katıldı. İlk toplantı 26 Haziran'da Hüsrev Paşa'nın Emirgân'daki yalısında yapıldı ve 8 Temmuz'daki ikinci toplantıda antlaşma burada imzalandı. Antlaşmanın yapılmasından iki gün sonra Rus filosu ve sayıları 13 veya 15.000'e varan kara kuvvetleri Karadeniz'e çıkmak üzere Boğaz'dan hareket etti.",
+    "qas": [
+      {
+        "id": "179",
+        "question": "Mehmed Ali Paşa'nın karşı propagandasından ve genel bir infialden çekinen kimdir?",
+        "answers": [
+          {
+            "text": "Bâbıâli",
+            "answer_start": 74
+          }
+        ]
+      },
+      {
+        "id": "180",
+        "question": "Bâbıâli başşehrin müdafaası için kimin de getirilmesine karar verdi?",
+        "answers": [
+          {
+            "text": "Rusya kara kuvvetlerinin de",
+            "answer_start": 449
+          }
+        ]
+      },
+      {
+        "id": "181",
+        "question": "Bâbıâli, başşehrin müdafaası için Rusya kara kuvvetlerinin de getirilmesine ne zaman karar verdi? ",
+        "answers": [
+          {
+            "text": "1833 Mart sonları",
+            "answer_start": 504
+          }
+        ]
+      },
+      {
+        "id": "182",
+        "question": "Kaç kişilik bir Rus kuvveti 5 Nisan'da İstanbul'a gelerek Beykoz'da karaya çıkıp Hünkâr İskelesi'nde karargâh kurdu?",
+        "answers": [
+          {
+            "text": "5000",
+            "answer_start": 524
+          }
+        ]
+      },
+      {
+        "id": "183",
+        "question": "5000 kişilik bir Rus kuvveti  İstanbul'a gelerek Beykoz'da karaya çıkıp Hünkâr İskelesi'nde ne zaman karargâh kurdu?",
+        "answers": [
+          {
+            "text": "5 Nisan'da",
+            "answer_start": 553
+          }
+        ]
+      },
+      {
+        "id": "184",
+        "question": "5000 kişilik bir Rus kuvveti 5 Nisan'da İstanbul'a gelerek Beykoz'da karaya çıkıp nerede karargâh kurdu?",
+        "answers": [
+          {
+            "text": "Beykoz'da",
+            "answer_start": 583
+          }
+        ]
+      },
+      {
+        "id": "185",
+        "question": "Mısır kuvvetleriyle anlaşmak üzere görüşmeler nerede sürdürülmekteydi?",
+        "answers": [
+          {
+            "text": "Kütahya'da",
+            "answer_start": 689
+          }
+        ]
+      },
+      {
+        "id": "186",
+        "question": "Adana “muhassıllık” olarak kime bırakıldı?",
+        "answers": [
+          {
+            "text": "İbrâhim Paşa'ya",
+            "answer_start": 771
+          }
+        ]
+      },
+      {
+        "id": "187",
+        "question": "5 Mayıs 1833'te çarın büyük yetkilerle yolladığı olağan üstü elçisi kimdir?",
+        "answers": [
+          {
+            "text": "Aleksey Orlof",
+            "answer_start": 1405
+          }
+        ]
+      },
+      {
+        "id": "188",
+        "question": "İlk toplantı Hüsrev Paşa'nın Emirgân'daki yalısında ne zaman yapıldı?",
+        "answers": [
+          {
+            "text": "26 Haziran'da",
+            "answer_start": 2150
+          }
+        ]
+      },
+      {
+        "id": "189",
+        "question": "8 Temmuz'daki ikinci toplantıda antlaşma nerede imzalandı?",
+        "answers": [
+          {
+            "text": "Hüsrev Paşa'nın Emirgân'daki yalısında",
+            "answer_start": 2164
+          }
+        ]
+      },
+      {
+        "id": "190",
+        "question": "Rus filosu ve sayıları 13 veya 15.000'e varan kara kuvvetleri Karadeniz'e çıkmak üzere Boğaz'dan ne zaman hareket etti?",
+        "answers": [
+          {
+            "text": "Antlaşmanın yapılmasından iki gün sonra",
+            "answer_start": 2273
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Adını Rus kuvvetlerinin karargâh kurduğu yer olan Beykoz Hünkâr İskelesi'nden alan bu savunma antlaşması sekiz yıl için geçerli olmak kaydıyla biri gizli yedi maddeden ibarettir. Antlaşmanın 1. maddesinde iki devlet arasında “ebedî sulh ve ittifak” hali olduğu belirtilerek yapılan ittifakın sadece tarafların her türlü tecavüzden korunması amacını güttüğü, dolayısıyla iki tarafın asayiş ve emniyetine dair her türlü hususun noksansız olarak tanzim edileceği ve bunu temin için karşılıklı maddî yardımlaşma ve etkili dayanışma içinde olunacağı vurgulanmaktaydı. 2. maddede, 14 Eylül 1829 tarihli Edirne Antlaşması ve bu antlaşmaya dahil edilen iki devlet arasında daha önce yapılmış bütün antlaşmalar (dolayısıyla 1799 ittifak antlaşması ve bunun 1805'teki temdidi), yine Petersburg'da imzalanan 26 Nisan 1830 tarihli senet ve 29 Temmuz 1832'de İstanbul'da Yunanistan ile ilgili olarak akdedilen tanzimnâme aynen tasdik ediliyordu. 3. maddede tarafların birbirlerini muhafaza ve müdafaası yapılan ittifakın esası olarak tasrih edilmekte ve Osmanlı Devleti'nin tam istiklâl ve istikrarının Rusya'nın samimi arzusu olduğu belirtilmekteydi. Ayrıca Rusya Bâbıâli'nin, kara ve deniz kuvvetlerine tekrar ihtiyaç duyabileceği yeni durumlarla karşılaşılması halinde ihtiyaç gösterilecek miktarda kuvvetin karadan ve denizden sevkini taahhüt etmekteydi. Böyle bir durumda yardım için talep edeceği kara ve deniz kuvvetlerinin sevk ve idaresi Bâbıâli'nin uhdesinde olacaktı. 4. maddeye göre tarafların hangisi diğerinden yardım görürse gönderilecek kara ve deniz kuvvetlerinin iâşe masraflarını da üstlenecekti. 5. maddede, yapılan antlaşmanın uzun süre geçerli olması tarafların samimi arzusu olmakla beraber zamanla antlaşmada bazı değişikliklerin yapılmasını gerekli kılacak durumların oluşabileceği düşüncesiyle antlaşmanın geçerlilik süresi sekiz yıl olarak belirlenmiştir. Bu sürenin sonunda mevcut duruma göre antlaşmanın yenilenmesi hususu tekrar müzakere edilecektir. 6. maddede bu antlaşmanın iki ay içinde onaylanacağı, tasdiknâmelerin İstanbul'da mübadele edileceği belirtilmiştir. 7. gizli maddede, önce açık metnin karşılıklı askerî yardımlaşmayı öngören 1 ve 3. maddelerine atıfta bulunulmakta ve böyle bir maddî yardımın ağır külfetinden Osmanlı Devleti'ni korumak isteyen Rusya, bunun yerine Çanakkale Boğazı'nın kendi lehine kapatılmasını ve hiçbir yabancı geminin geçmesine müsaade edilmemesi hususunu Bâbıâli'ye kabul ettirmekteydi.",
+    "qas": [
+      {
+        "id": "191",
+        "question": "Savunma antlaşması adını nereden almıştır?",
+        "answers": [
+          {
+            "text": "Adını Rus kuvvetlerinin karargâh kurduğu yer olan Beykoz Hünkâr İskelesi'nden",
+            "answer_start": 0
+          }
+        ]
+      },
+      {
+        "id": "192",
+        "question": "Antlaşma kaç maddeden ibarettir? ",
+        "answers": [
+          {
+            "text": "biri gizli yedi maddeden",
+            "answer_start": 143
+          }
+        ]
+      },
+      {
+        "id": "193",
+        "question": "Antlaşmanın geçerlilik süresi kaç yıl olarak belirlenmiştir?",
+        "answers": [
+          {
+            "text": "sekiz yıl",
+            "answer_start": 105
+          }
+        ]
+      },
+      {
+        "id": "194",
+        "question": "6.maddede bu antlaşmanın kaç ay içinde onaylanacağı belirtilmiştir?",
+        "answers": [
+          {
+            "text": "iki ay içinde",
+            "answer_start": 1994
+          }
+        ]
+      },
+      {
+        "id": "195",
+        "question": "Tasdiknâmelerin nerede mübadele edileceği belirtilmiştir?",
+        "answers": [
+          {
+            "text": "İstanbul'da",
+            "answer_start": 2038
+          }
+        ]
+      },
+      {
+        "id": "196",
+        "question": "Kim Çanakkale Boğazı'nın kendi lehine kapatılmasını ve hiçbir yabancı geminin geçmesine müsaade edilmemesi hususunu Bâbıâli'ye kabul ettirmekteydi?",
+        "answers": [
+          {
+            "text": "Rusya",
+            "answer_start": 2280
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "context": "Antlaşmanın bu gizli maddesi, Rus harp gemilerinin Boğazlar'dan geçerek Akdeniz'e çıkabileceklerini açıkça ifade etmemekle beraber böyle bir hakkı vermiş bulunan Ocak 1799 ve bunu yenileyen 1805 antlaşmalarının adları anılmasa bile 2. maddenin genel yapısı içinde yürürlükte olduğuna işaret edilmesi, gizli maddenin Avrupa genelinde büyük bir infiale yol açmasına ve endişe kaynağı olarak Mısır meselesinin sonuna kadar dikkatleri üzerinde toplamasına yetmiştir. Bu antlaşma ile Bâbıâli'nin Rusya'nın korumacılığı altına girdiğinde bir dereceye kadar doğruluk payı olmakla beraber, bu gelişmeyi bazı tarihçilerin vaktiyle ileri sürmüş oldukları gibi vasallık mertebesine indirmek herhalde yanlış, ancak konuya karşı duyulan hassasiyetin abartmalı bir göstergesidir. Hünkâr İskelesi Antlaşması Avrupa'da geniş akisler yarattı ve Mehmed Ali Paşa'nın dizginlenmesinde önemli bir vazife gördü. Geriye böyle bir antlaşma bırakmış olsa bile Rus kuvvetlerinin Boğaz'dan çekilmesi sevinçle karşılandı. Fakat kısa bir zaman sonra, varlığından önce birtakım söylentiler halinde haber aldıkları gizli maddenin mevcudiyetinin kesinlik ve muhtevasının açıklık kazanması bu rahatlamaların yerini kızgınlık ve endişeye bıraktı. İngiltere ve Fransa, Petersburg ve Bâbıâli nezdinde bir dizi resmî protestolara başladılar ve donanmalarını Çanakkale Boğazı önlerine sevkettiler. Nota teâtileri meseleyi yeni bir devletlerarası krize dönüştürdü; gerginlik, İngiltere ve Fransa cephesiyle Rusya karşısındaki münasebetlerin kesilebileceği zehâbına yol açtı. Büyüyen kriz Avusturya Başbakanı Metternich'in ara buluculuğu ile yatıştırıldı. Rus siyasî çizgisinden ayrılmamaya özen göstermekle beraber Avusturya menfaatlerini de en iyi şekilde kollamaya çalışan Metternich, Hünkâr İskelesi'nin Rusya'ya sağladığı üstün durumu kontrol edebileceği ve hatta duruma ortak olabileceği bir çözüm yoluna başarı ile teşebbüs etti. Avusturya ve Rus hükümdarlarının (I. Franz ve I. Nikola) Münchengraetz'de (Bohemya) buluşmalarını temin etti, Hünkâr İskelesi ile oluşan ağır siyasî havayı dağıtacak ve Rusya'yı şarkta yalnız bırakmayacak yeni bir antlaşmanın yapılmasını sağladı. Hünkâr İskelesi'nin doğrudan bir uzantısı olan Münchengraetz Antlaşması (18 Eylül 1833), Mehmed Ali Paşa tehlikesinin boyutlarını da açıkça gözler önüne sermesi bakımından ayrıca büyük bir önem taşır. İkisi gizli olmak üzere beş maddeden oluşan antlaşmada taraflar Osmanlı Devleti'nin Osmanlı hânedanı elinde kalmasını bütün güçlerini kullanarak temin etmeye, muhtemel bir hânedan değişikliği ve Bâbıâli'nin hükümranlık haklarının tehdit edildiği bir durumda bu gibi gelişmeleri engellemek üzere ortak tavır alıp etkili tedbirlerle karşı çıkmaya karar vermekteydiler. Gizli maddelerde ise yine aynı kaygılardan hareketle neler yapılacağı açıklanmaktaydı. Mehmed Ali Paşa'nın Osmanlı hânedanı yerine geçmesi halinde devletin Avrupa'daki toprakları üzerinde de hükümranlığını teşmil etmesine imkân verilmemesi, Osmanlı Devleti'nin yıkılması ihtimali söz konusu olduğunda da iki devletin ortak dayanışmasının hedefi, Balkanlar'daki Osmanlı topraklarında küçük millî devletler kurulmasının, dolayısıyla Metternich'in görüşü doğrultusunda büyük bir Yunan krallığı oluşturulmamasının sağlanması ve Avrupa devletler dengesini bozacak gelişmelerin önlenmesiydi.",
+    "qas": [
+      {
+        "id": "197",
+        "question": "Hünkâr İskelesi Antlaşması nerede geniş akisler yarattı?",
+        "answers": [
+          {
+            "text": "Avrupa'da",
+            "answer_start": 793
+          }
+        ]
+      },
+      {
+        "id": "198",
+        "question": "Hünkâr İskelesi Antlaşması neyde önemli bir vazife gördü?",
+        "answers": [
+          {
+            "text": "Mehmed Ali Paşa'nın dizginlenmesinde",
+            "answer_start": 828
+          }
+        ]
+      },
+      {
+        "id": "199",
+        "question": "Kimin Boğaz'dan çekilmesi sevinçle karşılandı?",
+        "answers": [
+          {
+            "text": "Rus kuvvetlerinin",
+            "answer_start": 935
+          }
+        ]
+      },
+      {
+        "id": "200",
+        "question": "Kimler Petersburg ve Bâbıâli nezdinde bir dizi resmî protestolara başladılar ve donanmalarını Çanakkale Boğazı önlerine sevkettiler?",
+        "answers": [
+          {
+            "text": "İngiltere ve Fransa",
+            "answer_start": 1213
+          }
+        ]
+      },
+      {
+        "id": "201",
+        "question": "Büyüyen kriz kimin ara buluculuğu ile yatıştırıldı?",
+        "answers": [
+          {
+            "text": "Avusturya Başbakanı Metternich'in",
+            "answer_start": 1549
+          }
+        ]
+      },
+      {
+        "id": "203",
+        "question": "Hünkâr İskelesi'nin doğrudan bir uzantısı olan anlaşma nedir?",
+        "answers": [
+          {
+            "text": "Münchengraetz Antlaşması",
+            "answer_start": 2191
+          }
+        ]
+      },
+      {
+        "id": "204",
+        "question": "Münchengraetz Antlaşması kaç maddeden oluşmaktadır?",
+        "answers": [
+          {
+            "text": "İkisi gizli olmak üzere beş maddeden",
+            "answer_start": 2345
+          }
+        ]
+      }
+    ]
+  }
