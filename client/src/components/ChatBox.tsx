@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import ArrowUpIcon from "@/assets/icons/ArrowUpIcon";
 import axios from "axios";
 import LoadingIcon from "@/assets/icons/LoadingIcon";
+import exampleQuestions from "@/config/questions";
 
 type ChatBoxProps = {
   addQuestion: (
@@ -49,6 +50,19 @@ const ChatBox = ({ addQuestion }: ChatBoxProps) => {
     return response.data.answer;
   };
 
+  const showExampleQuestion = () => {
+    const randomContextIndex = Math.floor(
+      Math.random() * exampleQuestions.length,
+    );
+    const randomQuestionIndex = Math.floor(
+      Math.random() * exampleQuestions[randomContextIndex].qas.length,
+    );
+    setContext(exampleQuestions[randomContextIndex].context);
+    setQuestion(
+      exampleQuestions[randomContextIndex].qas[randomQuestionIndex].question,
+    );
+  };
+
   return (
     <section className="mx-auto flex h-screen w-3/4 flex-col p-4">
       <h2 className="mb-4 text-xl font-bold">Soru Sor</h2>
@@ -68,15 +82,24 @@ const ChatBox = ({ addQuestion }: ChatBoxProps) => {
           rows={4}
           placeholder="Metninizi buraya giriniz..."
         />
-        <button
-          type="submit"
-          className="flex items-center gap-4 rounded bg-[#04052e] px-4 py-2 text-white hover:opacity-75"
-        >
-          Gönder
-          <div className="flex size-8 items-center justify-center rounded-full bg-white/5">
-            <ArrowUpIcon className="size-4" />
-          </div>
-        </button>
+        <div className="flex items-center gap-2">
+          <button
+            type="submit"
+            className="flex items-center gap-4 rounded bg-[#04052e] px-4 py-2 text-white hover:opacity-75"
+          >
+            Gönder
+            <div className="flex size-8 items-center justify-center rounded-full bg-white/5">
+              <ArrowUpIcon className="size-4" />
+            </div>
+          </button>
+          <button
+            type="button"
+            onClick={showExampleQuestion}
+            className="flex items-center gap-4 rounded bg-[#04052e] px-6 py-3 text-white hover:opacity-75"
+          >
+            Örnek Soru
+          </button>
+        </div>
       </form>
       {loading && (
         <p className="mt-4">
